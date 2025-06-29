@@ -1,0 +1,53 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "Classic T-Shirt",
+      "size": "M",
+      "price": 15.99,
+      "category": "Tops",
+      "image": "https://via.placeholder.com/150?text=T-Shirt"
+    },
+    {
+      "id": 2,
+      "name": "Slim Fit Jeans",
+      "size": "L",
+      "price": 39.99,
+      "category": "Bottoms",
+      "image": "https://via.placeholder.com/150?text=Jeans"
+    },
+    {
+      "id": 3,
+      "name": "Hooded Jacket",
+      "size": "S",
+      "price": 49.99,
+      "category": "Outerwear",
+      "image": "https://via.placeholder.com/150?text=Jacket"
+    },
+    {
+      "id": 4,
+      "name": "Summer Shorts",
+      "size": "M",
+      "price": 24.99,
+      "category": "Bottoms",
+      "image": "https://via.placeholder.com/150?text=Shorts"
+    },
+    {
+      "id": 5,
+      "name": "Flannel Shirt",
+      "size": "L",
+      "price": 29.99,
+      "category": "Tops",
+      "image": "https://via.placeholder.com/150?text=Flannel"
+    },
+    {
+      "id": 6,
+      "name": "Denim Jacket",
+      "size": "XL",
+      "price": 59.99,
+      "category": "Outerwear",
+      "image": "https://via.placeholder.com/150?text=Denim"
+    }
+  ]
+}
+
